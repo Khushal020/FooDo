@@ -4,18 +4,9 @@
 
 * This is a cloud based web application project called 'FooDo'. This application facilitates the restuarant management for the low and medium level restaurants who are looking to upgrade from conventional mode like pen and paper or from desktop clients. The app covers basic features like managing orders, viewing their history, kitchen side orders view, menu management, staff management, reviews, analytics and profile management. This application will help these small scale restaurants to use this one application and enhance their restauarant management experience to next level. 
 
-# Credentials to use the application.
-email - byb@gmail.com
-password - Byb@1234
-
-## Getting Started
-
-
-See deployment for notes on how to deploy the project on a live system.
-
 ### Prerequisites
 
-To have a local copy of this lab / assignment / project up and running on your local machine, you will first need to install the following software / libraries / plug-ins
+To have a local copy of this project up and running on your local machine, you will first need to install the following software / libraries / plug-ins
 
 You will need to install any web browser (Chrome, Firefox etc).  
 You will also need to install nodeJs.
@@ -29,17 +20,19 @@ A series of steps that tell you how to get a development env running:
 
 2. Install nodejs
 
-  a. Install nodejs from  https://nodejs.org/en/.
+      a. Install nodejs from  https://nodejs.org/en/
 
 ### To run the frontend code,
 
-  a.  Go to the frontend directory.
-  b.  Run the command "npm install". It will install dependencies. It will build the node_modules folder.
-  c.  Then run the command "npm start". It will run on localhost and you would be able to see the staff management page in the web browser.
+1.  Go to the frontend directory
+  
+2.  Run the command "npm install". It will install dependencies. It will build the node_modules folder
+  
+3.  Then run the command "npm start". It will run on localhost and you would be able to see the staff management page in the web browser
 
-4. to build the projection ready build.
+4. to build the projection ready build
 
-  a.  Run command "npm run build"
+    a.  Run command "npm run build"
 
 ### To run the backend code,
 1. Clone the git repo
